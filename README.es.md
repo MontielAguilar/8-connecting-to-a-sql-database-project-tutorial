@@ -21,7 +21,4 @@ La forma más fácil de comenzar a trabajar en este proyecto es usando Gitpod:
 
 Una vez que hayas terminado de resolver los ejercicios, asegúrate de confirmar tus cambios, hazle push al fork de tu repositorio y dirigirte a 4Geeks.com para cargar el enlace del repositorio.
 
-# Soluciones
-
-También incorporamos muestras de solución en `./src/solution.py` que te sugerimos que solo uses si estás atascado por más de 30 minutos o si ya has terminado y quieres compararlo con tu enfoque. 
 
