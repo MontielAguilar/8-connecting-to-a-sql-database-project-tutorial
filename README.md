@@ -29,6 +29,3 @@ Once Gitpod VSCode has finished opening you can go ahead and open the `problems.
 
 Once you are finished solving the exercises make sure to make your changes, then push to your repository fork and go to 4Geeks.com to upload the repository link.
 
-# Solutions
-
-We also incorporated the solution samples on `./src/solution.py` that we strongly suggest you only use if you are stuck for more than 30min or if you have already finished and want to compare it with your approach.
